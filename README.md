@@ -88,17 +88,18 @@ Computer scientist by trade, problem-solver by nature. I spend my time turning c
 
 ### GitHub Analytics
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Masood-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Masood-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Masood-05&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Masood-05&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Masood-05&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Masood-05&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Masood-05&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Masood-05&theme=tokyonight&utcOffset=5" />
 </p>
+
 
 ---
 
