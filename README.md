@@ -2,10 +2,10 @@
   Hi there, I'm Abdullah Masood <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=500&height=40&duration=4000&lines=Building+digital+experiences+that+stick;Crafting+SaaS+with+personality;Turning+complex+logic+into+clean+code" />
-</p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=500&height=40&duration=4000&lines=Building+intelligent+systems+that+matter;Teaching+machines+to+see+and+understand;Shipping+ML+from+notebook+to+production;Full-stack+by+day%2C+deep+learning+by+night" />
+</p>
 ---
 ### Technical Profile
 Computer scientist by trade, problem-solver by nature. I spend my time turning complex logic into digital experiences that people actually enjoy, not just tolerate. I build for impact, code with purpose, and always keep the end-user in the loop. I prioritize architectural integrity and performance, ensuring that every line of code serves a specific functional purpose. From machine learning and computer vision pipelines to fluid, full-stack web interfaces, my focus remains on building for impact and long-term scalability.
