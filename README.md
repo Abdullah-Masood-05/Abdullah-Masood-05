@@ -110,4 +110,5 @@ For technical consultations or project inquiries, please utilize the following c
   <a href="mailto:mabd051104@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ---
