@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Systems&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Abdullah-Masood-05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F87171&center=true&vCenter=true&width=720&height=46&lines=Data+science+and+machine+learning%2C+from+raw+data+to+production;Predictive+modeling%2C+statistics%2C+and+data+analysis;Computer+vision%2C+multimodal+AI%2C+and+vector+search;Full-stack+engineering+that+ships+models+to+users" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F87171&center=true&vCenter=true&width=820&height=50&lines=Data+science+and+machine+learning%2C+end+to+end;Predictive+modeling%2C+statistics%2C+and+analysis;Computer+vision%2C+multimodal+AI%2C+vector+search;Full-stack+engineering+that+ships+models" alt="Typing SVG" />
 </a>
 
 <br/>
