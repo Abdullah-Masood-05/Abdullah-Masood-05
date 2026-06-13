@@ -1,31 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Systems&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Systems&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Abdullah-Masood-05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F87171&center=true&vCenter=true&width=720&height=46&lines=Building+intelligent+systems+that+ship+to+production;Computer+vision%2C+multimodal+AI%2C+and+vector+search;Full-stack+SaaS%2C+from+database+internals+to+UI;Final-year+Computer+Science+%40+ITU%2C+Lahore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F87171&center=true&vCenter=true&width=720&height=46&lines=Data+science+and+machine+learning%2C+from+raw+data+to+production;Predictive+modeling%2C+statistics%2C+and+data+analysis;Computer+vision%2C+multimodal+AI%2C+and+vector+search;Full-stack+engineering+that+ships+models+to+users" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.S.%20Computer%20Science-ITU-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Final%20Year-2026-B91C1C?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Scientist-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack%20Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 <br/>
 <br/>
 
-<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-1A0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abdullah-Masood-05&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Abdullah-Masood-05?style=for-the-badge&color=B91C1C&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Abdullah-Masood-05/Bisondb?style=for-the-badge&color=EF4444&labelColor=0D1117&logo=github&logoColor=white&label=STAR%20BISONDB" />
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -33,13 +26,13 @@
 
 <h2 align="center">About</h2>
 
-I'm a final-year Computer Science student at ITU in Lahore who builds across the full stack, with most of my depth in machine learning, computer vision, and systems. My work usually starts from a hard problem and ends as something that runs: a document database written from scratch in C++20, a real-time driver-monitoring system that fuses face landmarks with object detection, a multi-tenant SaaS platform with billing and live updates.
+I'm a data scientist and software engineer who turns messy data and hard problems into systems that actually run. Most of my depth is in data science and machine learning — exploratory analysis, statistics, predictive modeling, and computer vision — paired with the full-stack engineering it takes to move a model from a notebook into production.
 
-I like understanding the layer below the one I'm working on. That's why I've written my own B+Tree indexes and a memory allocator, and it's also why I sweat the interface the user actually touches. Depending on what a problem needs, I move between PyTorch training loops, FastAPI services, and Django backends without much friction.
+I like understanding the layer below the one I'm working on, whether that's the math behind a model or the service that serves it. Depending on what a problem needs, I move between data wrangling and analysis in Python, PyTorch training loops, and the APIs and backends that deliver the results.
 
-Software engineering is the throughline. AI and computer vision are where I go deep. Full-stack and product thinking are how I make the work usable.
+Data science and machine learning are where I go deep. Software engineering is the throughline that keeps the work reproducible, and full-stack thinking is how I make it usable.
 
-> **Open to** &nbsp;·&nbsp; Software Engineering roles &nbsp;·&nbsp; AI / ML Engineering roles &nbsp;·&nbsp; Computer Vision roles &nbsp;·&nbsp; Open-source collaboration
+> **Open to** &nbsp;·&nbsp; Data Science roles &nbsp;·&nbsp; AI / ML Engineering roles &nbsp;·&nbsp; Software Engineering roles &nbsp;·&nbsp; Open-source collaboration
 
 ---
 
@@ -63,15 +56,15 @@ Software engineering is the throughline. AI and computer vision are where I go d
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/YOLOv8-DC2626?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-EF4444?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-EF4444?style=for-the-badge&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-B91C1C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentence--BERT-DC2626?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-EF4444?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-EF4444?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-B91C1C?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-DC2626?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentence--BERT-EE4C2C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 **Cloud, DevOps &amp; Tooling**
 
@@ -87,12 +80,12 @@ Software engineering is the throughline. AI and computer vision are where I go d
 
 | Domain | Proficiency | Focus Areas |
 |:------|:-----------:|:------------|
-| **Computer Vision** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | MediaPipe face mesh, YOLOv8 detection, OpenCV, real-time webcam inference |
-| **Deep Learning** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | PyTorch, LSTMs, CNNs, time-series forecasting |
-| **Multimodal AI / LLMs** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | CLIP embeddings, vision LLMs (Llama 4 Scout via Groq), RAG patterns |
-| **NLP &amp; Embeddings** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | Sentence-BERT, spaCy, semantic search |
-| **Classical ML &amp; Data Science** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | scikit-learn, predictive modeling, EDA, dashboards |
-| **MLOps &amp; Serving** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | ONNX, Docker, FastAPI model serving, Qdrant vector DB |
+| **Computer Vision** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | MediaPipe face mesh, YOLOv8 detection, OpenCV, real-time webcam inference |
+| **Deep Learning** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | PyTorch, LSTMs, CNNs, time-series forecasting |
+| **Multimodal AI / LLMs** | ![](https://img.shields.io/badge/Proficient-1F6FEB?style=flat-square) | CLIP embeddings, vision LLMs (Llama 4 Scout via Groq), RAG patterns |
+| **NLP &amp; Embeddings** | ![](https://img.shields.io/badge/Proficient-1F6FEB?style=flat-square) | Sentence-BERT, spaCy, semantic search |
+| **Classical ML &amp; Data Science** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | scikit-learn, predictive modeling, EDA, dashboards |
+| **MLOps &amp; Serving** | ![](https://img.shields.io/badge/Proficient-1F6FEB?style=flat-square) | ONNX, Docker, FastAPI model serving, Qdrant vector DB |
 
 </div>
 
@@ -235,13 +228,6 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 
 `C++` &nbsp; `Python` &nbsp; `PyTorch` &nbsp; `Computer Vision` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `System Design`
 
-#### [ Your Role ] &nbsp;—&nbsp; [ Company / Organization ]
-`[ Start Date ] — [ End Date ]`
-
-[ Add your internship or professional role here: one line on the team or product, then two or three bullets on what you built and the impact. ]
-
-`[ Skill ]` &nbsp; `[ Skill ]` &nbsp; `[ Skill ]`
-
 ---
 
 <h2 align="center">Achievements</h2>
@@ -264,39 +250,11 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 
 <div align="center">
 
-**Amazon Web Services**
+**Data Science Specialization &nbsp;—&nbsp; Coursera**
 
-<img src="https://img.shields.io/badge/AWS-%5B%20Add%20Certification%20%5D-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/specialization/GW57EHPG6E4P"><img src="https://img.shields.io/badge/Coursera-Data%20Science%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-%5B%20Add%20Certification%20%5D-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-%5B%20Add%20Certification%20%5D-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-%5B%20Add%20Certification%20%5D-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="center">Coding Profiles</h2>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/LeetCode-%5B%20username%20%5D-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/GeeksforGeeks-%5B%20username%20%5D-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/HackerRank-%5B%20username%20%5D-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/CodeChef-%5B%20username%20%5D-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
-<br/>
-<br/>
-
-<img width="500" src="https://leetcard.jacoblin.cool/Abdullah-Masood-05?theme=dark&font=Fira%20Code&ext=heatmap" />
+A multi-course specialization covering the end-to-end data-science workflow &mdash; data wrangling and exploratory analysis in Python, applied statistics and probability, machine-learning modeling and evaluation, and communicating results through clear visualization and reporting.
 
 </div>
 
@@ -317,33 +275,11 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 
 ---
 
-<h2 align="center">GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Masood-05&theme=discord&no-frame=true&column=7&margin-w=4&margin-h=4" />
-
-</div>
-
----
-
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Masood-05&bg_color=0D1117&color=F87171&line=EF4444&point=FCA5A5&area=true&area_color=DC2626&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
@@ -380,10 +316,10 @@ Abdullah Masood:
 
 <div align="center">
 
-<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-1A0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
