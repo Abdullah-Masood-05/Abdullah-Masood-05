@@ -1,114 +1,398 @@
-<h1 align="left">
-  Hi there, I'm Abdullah Masood <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Systems&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=500&height=40&duration=4000&lines=Building+intelligent+systems+that+matter;Teaching+machines+to+see+and+understand;Shipping+ML+from+notebook+to+production;Full-stack+by+day%2C+deep+learning+by+night" />
-</p>
+<a href="https://github.com/Abdullah-Masood-05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F87171&center=true&vCenter=true&width=720&height=46&lines=Building+intelligent+systems+that+ship+to+production;Computer+vision%2C+multimodal+AI%2C+and+vector+search;Full-stack+SaaS%2C+from+database+internals+to+UI;Final-year+Computer+Science+%40+ITU%2C+Lahore" alt="Typing SVG" />
+</a>
 
----
-### Technical Profile
-Computer scientist by trade, problem-solver by nature. I spend my time turning complex logic into digital experiences that people actually enjoy, not just tolerate. I build for impact, code with purpose, and always keep the end-user in the loop. I prioritize architectural integrity and performance, ensuring that every line of code serves a specific functional purpose. From machine learning and computer vision pipelines to fluid, full-stack web interfaces, my focus remains on building for impact and long-term scalability.
+<br/>
 
-* Currently pursuing a Bachelor's degree in Computer Science at ITU (Final Year).
-* Specialized in machine learning, computer vision, and full-stack SaaS development.
-* Committed to bridging the gap between technical complexity and user-centric design.
+<img src="https://img.shields.io/badge/B.S.%20Computer%20Science-ITU-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Final%20Year-2026-B91C1C?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
----
+<br/>
+<br/>
 
-### Core Competencies
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-1A0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-#### **Programming Languages**
-<p align="left">
-  <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img title="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img title="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img title="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img title="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+<br/>
+<br/>
 
-#### **Web & Backend**
-<p align="left">
-  <img title="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img title="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img title="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img title="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img title="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img title="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img title="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Abdullah-Masood-05&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Abdullah-Masood-05?style=for-the-badge&color=B91C1C&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Abdullah-Masood-05/Bisondb?style=for-the-badge&color=EF4444&labelColor=0D1117&logo=github&logoColor=white&label=STAR%20BISONDB" />
 
-#### **ML / AI & Computer Vision**
-<p align="left">
-  <img title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img title="Sentence-BERT" src="https://img.shields.io/badge/Sentence--BERT-FFB000?style=for-the-badge&logoColor=white" />
-  <img title="Sentence-Transformers" src="https://img.shields.io/badge/Sentence--Transformers-FF9D00?style=for-the-badge&logoColor=white" />
-  <img title="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img title="YOLOv8" src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white" />
-  <img title="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img title="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img title="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-</p>
-
-#### **Data Science & Visualization**
-<p align="left">
-  <img title="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img title="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img title="Seaborn" src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logoColor=white" />
-  <img title="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img title="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img title="Dash" src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img title="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img title="Qdrant" src="https://img.shields.io/badge/Qdrant-black?style=for-the-badge&logo=qdrant&logoColor=red" />
-</p>
-
-#### **DevOps & Tools**
-<p align="left">
-  <img title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img title="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img title="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img title="Judge0" src="https://img.shields.io/badge/Judge0-2F8D46?style=for-the-badge&logoColor=white" />
-  <img title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img title="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### GitHub Analytics
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Masood-05&theme=tokyonight" />
-</p>
+<h2 align="center">About</h2>
 
-<p align="left">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Masood-05&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Masood-05&theme=tokyonight" />
-</p>
+I'm a final-year Computer Science student at ITU in Lahore who builds across the full stack, with most of my depth in machine learning, computer vision, and systems. My work usually starts from a hard problem and ends as something that runs: a document database written from scratch in C++20, a real-time driver-monitoring system that fuses face landmarks with object detection, a multi-tenant SaaS platform with billing and live updates.
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Masood-05&theme=tokyonight&utcOffset=5" />
-</p>
+I like understanding the layer below the one I'm working on. That's why I've written my own B+Tree indexes and a memory allocator, and it's also why I sweat the interface the user actually touches. Depending on what a problem needs, I move between PyTorch training loops, FastAPI services, and Django backends without much friction.
 
+Software engineering is the throughline. AI and computer vision are where I go deep. Full-stack and product thinking are how I make the work usable.
+
+> **Open to** &nbsp;·&nbsp; Software Engineering roles &nbsp;·&nbsp; AI / ML Engineering roles &nbsp;·&nbsp; Computer Vision roles &nbsp;·&nbsp; Open-source collaboration
 
 ---
 
-### Professional Contact
-For technical consultations or project inquiries, please utilize the following channels:
+<h2 align="center">Tech Stack</h2>
 
-<p align="left">
-  <a href="mailto:mabd051104@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,rust,cs,dart,ts,js&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark" />
+
+**Backend &amp; Databases**
+
+<img src="https://skillicons.dev/icons?i=django,nestjs,fastapi,flask,nodejs,express,postgres,mongodb,mysql,sqlite,firebase,redis&theme=dark" />
+
+**AI / ML &amp; Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/YOLOv8-DC2626?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-EF4444?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-EF4444?style=for-the-badge&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-B91C1C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentence--BERT-DC2626?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-EF4444?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-EF4444?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-B91C1C?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-DC2626?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+**Cloud, DevOps &amp; Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash,vscode,postman&theme=dark" />
+
+</div>
 
 ---
+
+<h2 align="center">AI / ML Expertise</h2>
+
+<div align="center">
+
+| Domain | Proficiency | Focus Areas |
+|:------|:-----------:|:------------|
+| **Computer Vision** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | MediaPipe face mesh, YOLOv8 detection, OpenCV, real-time webcam inference |
+| **Deep Learning** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | PyTorch, LSTMs, CNNs, time-series forecasting |
+| **Multimodal AI / LLMs** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | CLIP embeddings, vision LLMs (Llama 4 Scout via Groq), RAG patterns |
+| **NLP &amp; Embeddings** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | Sentence-BERT, spaCy, semantic search |
+| **Classical ML &amp; Data Science** | ![](https://img.shields.io/badge/Advanced-DC2626?style=flat-square) | scikit-learn, predictive modeling, EDA, dashboards |
+| **MLOps &amp; Serving** | ![](https://img.shields.io/badge/Proficient-EF4444?style=flat-square) | ONNX, Docker, FastAPI model serving, Qdrant vector DB |
+
+</div>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<details>
+<summary><b>&nbsp;Bisondb &nbsp;—&nbsp; A Document Database Built From Scratch (C++20)</b></summary>
+<br/>
+
+A document-oriented database written in C++20 with no third-party storage or networking libraries. It implements a BSON storage engine, append-only collections, hand-written on-disk B+Tree indexes, a query engine with explain plans, a TCP server (`bisond`), and an interactive shell (`bisonsh`).
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | C++20, custom BSON, on-disk B+Tree, TCP sockets, CLI shell |
+| **Scale** | Append-only collections with persistent indexing |
+| **Performance** | Hand-written B+Tree indexes and query explain plans |
+| **Security** | Zero external storage / networking dependencies, full control of the stack |
+| **Impact** | End-to-end database internals: storage, indexing, query, networking, shell |
+| **Repository** | [Bisondb](https://github.com/Abdullah-Masood-05/Bisondb) &nbsp;·&nbsp; [Project Site](https://github.com/Abdullah-Masood-05/bisondb-site) |
+
+This is the project I point to when someone asks whether I understand what a database does under the hood. Every layer, from how a document hits the disk to how an index lookup resolves, is something I wrote and can explain.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Multimodal Product Intelligence &nbsp;—&nbsp; Vision LLM + Vector Search API</b></summary>
+<br/>
+
+A FastAPI backend for AI-driven product analysis. It pairs Groq Vision (Llama 4 Scout) for image understanding with CLIP embeddings and Qdrant for semantic retrieval, exposed through a typed API and a separate frontend.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | FastAPI, Groq Vision (Llama 4 Scout), CLIP, Qdrant, Python |
+| **Scale** | Vector search across product image and text embeddings |
+| **Performance** | CLIP embeddings with Qdrant approximate-nearest-neighbour retrieval |
+| **Security** | API-key authentication and typed request / response schemas |
+| **Impact** | Combined image and text product understanding with semantic search |
+| **Repository** | [API](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-api) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-frontend) |
+
+A practical look at how vision models, embeddings, and a vector database fit together into one service rather than three disconnected experiments.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Real-Time Driver Drowsiness &amp; Distraction Detection &nbsp;—&nbsp; Computer Vision</b></summary>
+<br/>
+
+A live driver-monitoring system that fuses three signals: MediaPipe face mesh for eye and head state, YOLOv8 for phone detection, and a PyTorch LSTM that reads the temporal pattern of those landmarks. A Streamlit UI runs it against a live webcam.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | MediaPipe, YOLOv8, PyTorch LSTM, OpenCV, Streamlit |
+| **Scale** | Live webcam, frame-by-frame inference |
+| **Performance** | Temporal LSTM over facial landmarks for drowsiness classification |
+| **Security** | Runs locally; video never leaves the device |
+| **Impact** | Driver-safety monitoring through multi-signal sensor fusion |
+| **Repository** | [Driver Drowsiness Detection](https://github.com/Abdullah-Masood-05/Real-Time-Driver-Drowsiness---Distraction-Detection) |
+
+Three models doing different jobs, joined into one real-time decision instead of a single classifier guessing at everything.
+
+</details>
+
+<details>
+<summary><b>&nbsp;TaskForge &nbsp;—&nbsp; Multi-Tenant SaaS Project Management Platform</b></summary>
+<br/>
+
+A production-grade, multi-tenant SaaS platform built on Django and DRF. It covers the parts a real product needs: JWT auth, role-based access, Stripe billing, async notifications via Celery, real-time task updates over Channels, and a Dockerized CI/CD pipeline with a real test suite.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Django, DRF, PostgreSQL, Redis, Celery, Channels |
+| **Scale** | Multi-tenant with role-based access control |
+| **Performance** | Background work via Celery, real-time updates via Channels / WebSockets |
+| **Security** | JWT auth, RBAC, and production-grade testing |
+| **Impact** | Stripe billing, async notifications, Dockerized CI/CD deployment |
+| **Repository** | [Backend](https://github.com/Abdullah-Masood-05/taskforge-backend) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/taskforge-frontend) &nbsp;·&nbsp; [Desktop](https://github.com/Abdullah-Masood-05/taskforge-desktop) |
+
+The architecture is the point here: tenancy, billing, async jobs, and real-time messaging are the pieces that separate a demo from something you could actually deploy.
+
+</details>
+
+<details>
+<summary><b>&nbsp;Face Verification System &nbsp;—&nbsp; Cross-Platform Desktop CV</b></summary>
+<br/>
+
+A face-verification system delivered as a native desktop application using Tauri 2, with a companion web frontend. Verification runs on-device.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Tauri 2, computer vision, web frontend |
+| **Scale** | Cross-platform native desktop build |
+| **Performance** | On-device face verification |
+| **Security** | Local biometric processing, no cloud round-trip |
+| **Impact** | Identity verification packaged as an installable desktop app |
+| **Repository** | [Desktop](https://github.com/Abdullah-Masood-05/Face-Verification-Desktop) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/Frontend-Face-Verification-System) |
+
+Taking a vision model from a notebook into a shippable desktop app, where startup time, packaging, and on-device performance all suddenly matter.
+
+</details>
+
+<details>
+<summary><b>&nbsp;ArenaBinAllocator &nbsp;—&nbsp; A Custom Memory Allocator in C</b></summary>
+<br/>
+
+A memory allocator written in C that manages a preallocated arena. It reimplements `malloc`, `free`, and `realloc`, using a binning strategy for small allocations and block merging to keep fragmentation down.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | C, manual memory management |
+| **Scale** | Preallocated arena with size-class bins |
+| **Performance** | Binning for fast small allocations, block merging to reduce fragmentation |
+| **Security** | Explicit, bounds-aware allocation logic |
+| **Impact** | `malloc` / `free` / `realloc` rebuilt from first principles |
+| **Repository** | [ArenaBinAllocator](https://github.com/Abdullah-Masood-05/ArenaBinAllocator) |
+
+The kind of project that changes how you read every line of C afterwards, because you've seen what the allocator is doing underneath.
+
+</details>
+
+<div align="center">
+<br/>
+<sub><b>More on GitHub</b> &nbsp;·&nbsp; Battery Degradation Forecasting (LSTM) &nbsp;·&nbsp; SpaceX Falcon 9 Landing Prediction &nbsp;·&nbsp; Credit Card Fraud Detection &nbsp;·&nbsp; Hospital Readmission Prediction &nbsp;·&nbsp; Electronics Store (Node / Express / MongoDB) &nbsp;·&nbsp; Furniture Image Classification</sub>
+</div>
+
+---
+
+<h2 align="center">Experience</h2>
+
+#### Open-Source &amp; Independent Engineering &nbsp;—&nbsp; Self-Directed
+`2023 — Present`
+
+Designing and shipping end-to-end systems across AI, computer vision, and full-stack development.
+
+- Built a document database engine in C++20 with custom storage, on-disk B+Tree indexing, a query engine, and a networked server.
+- Developed real-time computer-vision pipelines fusing MediaPipe, YOLOv8, and PyTorch for live inference.
+- Architected a multi-tenant SaaS platform with billing, async processing, real-time updates, and CI/CD.
+- Shipped a multimodal AI API combining vision LLMs, CLIP embeddings, and Qdrant vector search.
+
+`C++` &nbsp; `Python` &nbsp; `PyTorch` &nbsp; `Computer Vision` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `System Design`
+
+#### [ Your Role ] &nbsp;—&nbsp; [ Company / Organization ]
+`[ Start Date ] — [ End Date ]`
+
+[ Add your internship or professional role here: one line on the team or product, then two or three bullets on what you built and the impact. ]
+
+`[ Skill ]` &nbsp; `[ Skill ]` &nbsp; `[ Skill ]`
+
+---
+
+<h2 align="center">Achievements</h2>
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| **Database engine from scratch** | Designed Bisondb with a custom BSON store and hand-written B+Tree indexes in C++20 |
+| **Multimodal AI pipeline** | Shipped a product-intelligence API combining vision LLMs, CLIP, and Qdrant |
+| **Production SaaS architecture** | Built TaskForge as a multi-tenant platform with Stripe billing and real-time updates |
+| **Systems programming** | Implemented a custom arena memory allocator in C with binning and block merging |
+| **[ Award / Competition ]** | [ Add hackathon placements, scholarships, or competition results here ] |
+
+</div>
+
+---
+
+<h2 align="center">Certifications</h2>
+
+<div align="center">
+
+**Amazon Web Services**
+
+<img src="https://img.shields.io/badge/AWS-%5B%20Add%20Certification%20%5D-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+**Oracle**
+
+<img src="https://img.shields.io/badge/Oracle-%5B%20Add%20Certification%20%5D-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+**NPTEL**
+
+<img src="https://img.shields.io/badge/NPTEL-%5B%20Add%20Certification%20%5D-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco-%5B%20Add%20Certification%20%5D-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+---
+
+<h2 align="center">Coding Profiles</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/LeetCode-%5B%20username%20%5D-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.geeksforgeeks.org/user/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/GeeksforGeeks-%5B%20username%20%5D-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/HackerRank-%5B%20username%20%5D-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+<a href="https://www.codechef.com/users/Abdullah-Masood-05/"><img src="https://img.shields.io/badge/CodeChef-%5B%20username%20%5D-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+<br/>
+<br/>
+
+<img width="500" src="https://leetcard.jacoblin.cool/Abdullah-Masood-05?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Masood-05&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false&title_color=FCA5A5&icon_color=F87171&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
+<img height="180" src="https://streak-stats.demolab.com?user=Abdullah-Masood-05&hide_border=false&background=0D1117&border=B91C1C&stroke=B91C1C&ring=F87171&fire=F87171&currStreakNum=FCA5A5&sideNums=FCA5A5&currStreakLabel=F87171&sideLabels=CBD5E1&dates=8B949E" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Masood-05&layout=compact&langs_count=10&hide_border=false&title_color=FCA5A5&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
+
+</div>
+
+---
+
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Masood-05&theme=discord&no-frame=true&column=7&margin-w=4&margin-h=4" />
+
+</div>
+
+---
+
+<h2 align="center">Contribution Activity</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Masood-05&bg_color=0D1117&color=F87171&line=EF4444&point=FCA5A5&area=true&area_color=DC2626&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abdullah-Masood-05/Abdullah-Masood-05/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+```yaml
+Abdullah Masood:
+  learning:
+    - Distributed systems and consensus
+    - MLOps and model serving at scale
+    - Rust for systems programming
+  building:
+    - Bisondb       # document database in C++20
+    - Multimodal product intelligence API
+  exploring:
+    - Vector databases and semantic search
+    - Real-time computer-vision pipelines
+    - LLM application architecture
+  ask_me_about:
+    - Database internals
+    - Computer vision
+    - Full-stack SaaS engineering
+  open_to:
+    - Software Engineering roles
+    - AI / ML Engineering roles
+    - Open-source collaboration
+```
+
+---
+
+<h2 align="center">Connect</h2>
+
+<div align="center">
+
+<a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdullah-masood-921458221/"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-1A0F0F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>From B+Trees to UIs, I like building the whole stack.</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:EF4444,100:DC2626&height=120&section=footer" />
+
+</div>
