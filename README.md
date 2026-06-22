@@ -240,8 +240,6 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 | **Multimodal AI pipeline** | Shipped a product-intelligence API combining vision LLMs, CLIP, and Qdrant |
 | **Production SaaS architecture** | Built TaskForge as a multi-tenant platform with Stripe billing and real-time updates |
 | **Systems programming** | Implemented a custom arena memory allocator in C with binning and block merging |
-| **[ Award / Competition ]** | [ Add hackathon placements, scholarships, or competition results here ] |
-
 </div>
 
 ---
