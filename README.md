@@ -262,12 +262,13 @@ A multi-course specialization covering the end-to-end data-science workflow &mda
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Abdullah-Masood-05&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false&title_color=FCA5A5&icon_color=F87171&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
-<img height="180" src="https://streak-stats.demolab.com?user=Abdullah-Masood-05&hide_border=false&background=0D1117&border=B91C1C&stroke=B91C1C&ring=F87171&fire=F87171&currStreakNum=FCA5A5&sideNums=FCA5A5&currStreakLabel=F87171&sideLabels=CBD5E1&dates=8B949E" />
+<img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Abdullah-Masood-05&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false&title_color=FCA5A5&icon_color=F87171&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=Abdullah-Masood-05&hide_border=false&card_width=495&background=0D1117&border=B91C1C&stroke=B91C1C&ring=F87171&fire=F87171&currStreakNum=FCA5A5&sideNums=FCA5A5&currStreakLabel=F87171&sideLabels=CBD5E1&dates=8B949E" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Masood-05&layout=compact&langs_count=10&hide_border=false&title_color=FCA5A5&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
+<img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Masood-05&layout=compact&langs_count=8&hide_border=false&title_color=FCA5A5&text_color=CBD5E1&bg_color=0D1117&border_color=B91C1C" />
 
 </div>
 
