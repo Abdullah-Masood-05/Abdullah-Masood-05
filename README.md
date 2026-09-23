@@ -244,6 +244,7 @@ Things other people can install, not just clone.
 |:--|:--|:--|
 | **pysafe-pickle** | [![PyPI](https://img.shields.io/pypi/v/pysafe-pickle?style=flat-square&color=DC2626&label=pypi)](https://pypi.org/project/pysafe-pickle/) | Drop-in `pickle` replacement in Rust that never executes code on load. Schema migrations, HMAC integrity, zero-copy NumPy and PyTorch tensors |
 | **vigilo-stream** | [![PyPI](https://img.shields.io/pypi/v/vigilo-stream?style=flat-square&color=DC2626&label=pypi)](https://pypi.org/project/vigilo-stream/) | Python bindings for the Vigilo engine. NumPy gets a view into Rust-owned frame memory with no copy across the FFI boundary |
+| **vigilo-wasm** | [![npm](https://img.shields.io/npm/v/vigilo-wasm?style=flat-square&color=DC2626&label=npm)](https://www.npmjs.com/package/vigilo-wasm) | The Vigilo engine compiled to WebAssembly, so proctoring runs entirely in a browser tab and camera frames stay on the machine. Inference on onnxruntime-web. [Docs](https://abdullah-masood-05.github.io/vigilo-wasm/) |
 | **pypilot-cli** | [![PyPI](https://img.shields.io/pypi/v/pypilot-cli?style=flat-square&color=DC2626&label=pypi)](https://pypi.org/project/pypilot-cli/) | The PyPilot environment doctor as a CLI. Thin launcher over the native Rust engine |
 | **PyPilot for VS Code** | [![Open VSX](https://img.shields.io/open-vsx/dt/AbdullahMasood-005/pypilot-vscode?style=flat-square&color=DC2626&label=open%20vsx)](https://open-vsx.org/extension/AbdullahMasood-005/pypilot-vscode) | Import diagnostics, interpreter status bar, interactive doctor report. Also on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AbdullahMasood-005.pypilot-vscode) |
 | **pwsh-terminal-setup** | [![Downloads](https://img.shields.io/github/downloads/Abdullah-Masood-05/pwsh-terminal-setup/total?style=flat-square&color=DC2626&label=downloads)](https://github.com/Abdullah-Masood-05/pwsh-terminal-setup/releases) | One command for a PowerShell 7 profile that starts in about 0.3s instead of 2.3s. Lazy-loaded conda, ligatures with Nerd Font icons, a zsh-like prompt |
@@ -264,6 +265,7 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 
 - Built a real-time computer-vision engine in Rust running five ONNX models on independent worker threads, with a deterministic fusion layer that replays recorded sessions to identical results.
 - Published Python packages backed by Rust (PyO3 and maturin), including a memory-safe `pickle` replacement and zero-copy bindings that hand NumPy a view into Rust-allocated frames.
+- Compiled the proctoring engine to WebAssembly and published it to npm, so the same fusion rules run in a browser tab with inference on onnxruntime-web.
 - Shipped developer tooling to four registries: PyPI, the VS Code Marketplace, Open VSX, and Zed.
 - Wrote a document database engine in C++20 with custom BSON storage, on-disk B+Tree indexing, a query planner with explain plans, and a TLS-secured networked server.
 - Developed computer-vision pipelines fusing MediaPipe, YOLOv8, and PyTorch for live inference.
@@ -281,7 +283,7 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 | Recognition | Details |
 |:--|:--|
 | **Real-time CV engine in Rust** | Five ONNX models at 15 Hz with p50 27ms detection latency, deterministic replay, and 119 tests |
-| **Published to four registries** | Rust-backed tooling on PyPI, the VS Code Marketplace, Open VSX, and Zed |
+| **Published to five registries** | Rust-backed packages and tooling on PyPI, npm, the VS Code Marketplace, Open VSX, and Zed |
 | **Database engine from scratch** | BisonDB with a custom BSON store and hand-written B+Tree indexes in C++20 |
 | **Accepted into the Windhawk catalog** | Two C++ Windows mods reviewed and published to the official mod catalog |
 | **Multimodal AI pipeline** | A product-intelligence API combining vision LLMs, CLIP, and Qdrant |
@@ -336,7 +338,7 @@ Abdullah Masood:
   ask_me_about:
     - Database internals
     - Computer vision and ONNX inference
-    - Shipping Rust to PyPI and editor marketplaces
+    - Shipping Rust to PyPI, npm and editor marketplaces
   open_to:
     - Data Science roles
     - AI / ML Engineering roles
