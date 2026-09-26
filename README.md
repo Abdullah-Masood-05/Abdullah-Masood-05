@@ -115,7 +115,7 @@ The gaze handling is the part I'd point at first. Subtracting head pose from raw
 
 The other decision that paid off: fusion is a pure function of its inputs and a discrete timestamp. Recorded sessions replay to bit-identical events with no inference at all, which turned threshold tuning from a slow re-inference loop into an 87ms replay.
 
-It replaced a MediaPipe-in-the-browser pipeline that managed 5 to 12 fps because ML inference and the React render loop were fighting over one thread. Current numbers: p50 27ms detection latency held at 15 Hz, around 190 MB RAM, a 70 MB installer, 119 tests passing. A custom trimmed ffmpeg build handles camera capture in about 3 MB instead of the 128 MB bundled dependency it replaced.
+It replaced a MediaPipe-in-the-browser pipeline that managed 5 to 12 fps because ML inference and the React render loop were fighting over one thread. Current numbers: p50 27ms and p95 31ms detection latency held at 15 Hz, a 34 MB Windows installer, 119 tests passing. A custom 1.7 MB static ffmpeg build handles camera capture instead of the 128 MB of bundled binaries it replaced.
 
 **Stack** &nbsp;·&nbsp; Rust, ONNX Runtime, Tauri, PyO3, WebAssembly, crossbeam, ArcSwap
 
