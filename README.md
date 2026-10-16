@@ -229,7 +229,7 @@ Three models doing different jobs, joined into one real-time decision instead of
 
 <div align="center">
 <br/>
-<sub><b>More on GitHub</b> &nbsp;·&nbsp; DeepScreen (local resume shortlisting in Rust) &nbsp;·&nbsp; ArenaBinAllocator (custom allocator in C) &nbsp;·&nbsp; Face Verification (Tauri 2 + FaceAPI.js) &nbsp;·&nbsp; Battery Degradation Forecasting (LSTM) &nbsp;·&nbsp; SpaceX Falcon 9 Landing Prediction &nbsp;·&nbsp; Pakistan Crop Yield vs Climate &nbsp;·&nbsp; Credit Card Fraud Detection &nbsp;·&nbsp; Hospital Readmission Prediction &nbsp;·&nbsp; Resume Builder (Next.js 16 + Tauri) &nbsp;·&nbsp; ElectroStore &nbsp;·&nbsp; Angry Bird 3D (Unity)</sub>
+<sub><b>More on GitHub</b> &nbsp;·&nbsp; HireLens (local resume shortlisting in Rust) &nbsp;·&nbsp; ArenaBinAllocator (custom allocator in C) &nbsp;·&nbsp; Face Verification (Tauri 2 + FaceAPI.js) &nbsp;·&nbsp; Battery Degradation Forecasting (LSTM) &nbsp;·&nbsp; SpaceX Falcon 9 Landing Prediction &nbsp;·&nbsp; Pakistan Crop Yield vs Climate &nbsp;·&nbsp; Credit Card Fraud Detection &nbsp;·&nbsp; Hospital Readmission Prediction &nbsp;·&nbsp; Resume Builder (Next.js 16 + Tauri) &nbsp;·&nbsp; ElectroStore &nbsp;·&nbsp; Angry Bird 3D (Unity)</sub>
 </div>
 
 ---
