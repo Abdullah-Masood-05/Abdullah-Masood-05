@@ -145,17 +145,17 @@ A practical look at how vision models, embeddings, and a vector database fit tog
 <summary><b>&nbsp;PyPilot &nbsp;·&nbsp; Python Environment Doctor (Rust, shipped to four registries)</b></summary>
 <br/>
 
-A package's `requires_python` is often a lie of omission. mediapipe 0.10.9 declares `>=3.8` but only ships wheels for cp39 through cp312, so on 3.13 pip goes hunting for a source distribution and dies with a metadata error that never once mentions Python versions.
+A package's `requires_python` is often incomplete. mediapipe 0.10.14 doesn't declare it at all, yet only ships wheels for cp39 through cp312, so on 3.13 pip goes hunting for a source distribution that doesn't exist and stops with an error that never once mentions the Python version.
 
-PyPilot reads both signals. It takes `requires_python` as a starting range, then intersects it with the interpreter versions that actually have prebuilt wheels for your OS and CPU architecture, repeated across every dependency in the workspace. What survives is the set of interpreters that can run the whole project. When that set comes back empty, it names the two packages whose constraints collide, which is the thing pip never tells you and the reason dependency conflicts eat an afternoon.
+PyPilot reads both signals. It takes `requires_python` as a starting range, then intersects it with the interpreter versions that actually have prebuilt wheels for your OS and CPU architecture, repeated across every dependency in the workspace. What survives is the set of interpreters that can run the whole project. When that set comes back empty, it names the packages whose constraints collide, which is the thing pip never tells you and the reason dependency conflicts eat an afternoon. `pypilot explain` shows, platform by platform, what rules out each Python version.
 
-It also catches the failures that happen after a successful install. mediapipe 0.10.35 installs fine and then crashes on `module 'mediapipe' has no attribute 'solutions'` because Google removed the legacy API, so PyPilot inspects the installed package on disk and flags `mp.solutions` in the editor while you're writing it. For GPU frameworks it reads `nvidia-smi`, maps the driver to its highest supported CUDA runtime, and pins torch to the matching index (`cu124` instead of a default that doesn't fit the machine).
+It also catches the failures that happen after a successful install. mediapipe 0.10.35 installs fine and then crashes on `module 'mediapipe' has no attribute 'solutions'` because Google removed the legacy API, so PyPilot inspects the installed package on disk and flags `mp.solutions` in the editor while you're writing it. For GPU frameworks it reads `nvidia-smi`, maps the driver to the newest CUDA runtime it supports and the GPU to the CUDA range it needs, and installs the matching torch build (`cu124`, `cu132` and so on). Environments are built with uv by default, plain venv and pip if you prefer, and through pixi in pixi projects.
 
 Everything resolves from PyPI metadata and bundled lookup tables. No AI, no API keys, no external services.
 
-**Stack** &nbsp;·&nbsp; Rust, LSP, WebAssembly (wasm32-wasip2), TypeScript, Bun, uv
+**Stack** &nbsp;·&nbsp; Rust, LSP, WebAssembly (wasm32-wasip2), TypeScript, Bun, uv, pixi
 
-**Repos** &nbsp;·&nbsp; [pypilot (Zed + engine)](https://github.com/Abdullah-Masood-05/pypilot) &nbsp;·&nbsp; [pypilot-vscode](https://github.com/Abdullah-Masood-05/pypilot-vscode) &nbsp;·&nbsp; [pypilot-pip (CLI)](https://github.com/Abdullah-Masood-05/pypilot-pip)
+**Repos** &nbsp;·&nbsp; [pypilot (Zed + engine)](https://github.com/pypilot-dev/pypilot) &nbsp;·&nbsp; [pypilot-vscode](https://github.com/pypilot-dev/pypilot-vscode) &nbsp;·&nbsp; [pypilot-pip (CLI)](https://github.com/pypilot-dev/pypilot-pip) &nbsp;·&nbsp; [Docs](https://pypilot-dev.github.io/pypilot/)
 
 One Rust binary, four ways to get it: `pip install pypilot-cli`, the VS Code Marketplace, Open VSX for VSCodium and Cursor, and the Zed extension registry. The editor extensions hold no business logic, so churn in an editor's extension API can't break environment resolution.
 
