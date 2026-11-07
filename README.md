@@ -106,22 +106,22 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI, exte
 <h2 align="center">Featured Projects</h2>
 
 <details>
-<summary><b>&nbsp;Vigilo &nbsp;·&nbsp; Real-Time Exam Proctoring Engine (Rust)</b></summary>
+<summary><b>&nbsp;Vigilo &nbsp;·&nbsp; Webcam Proctoring for Online Exams (demo on request)</b></summary>
 <br/>
 
-Camera frames go in, cheat-detection events come out. Five ONNX models run on their own worker threads at different rates: face detection (YuNet) and head pose at 15 Hz, gaze with eye-in-head subtraction at 15 Hz, prohibited-object detection (YOLOX-Nano) at 1 Hz, and ArcFace identity verification at 0.2 Hz. A temporal fusion layer turns those raw signals into debounced violations using hold timers, hysteresis bands, and decaying scores.
+Vigilo is webcam proctoring for online exams. It watches for the things that matter during a test: nobody in front of the camera, a second person in the frame, a phone in shot, a head turned away, eyes off the screen, and whether the person sitting the exam is still the one who enrolled.
 
-The gaze handling is the part I'd point at first. Subtracting head pose from raw gaze isolates where the eyes are actually pointed, so someone glancing down at a phone on the desk without moving their head still registers.
+It reports violations rather than raw readings. Each one has to hold for a set time before it's raised, so a blink or a glance at the keyboard doesn't become an alert a proctor has to dismiss, and each carries a severity from low to critical so a reviewer can triage.
 
-The other decision that paid off: fusion is a pure function of its inputs and a discrete timestamp. Recorded sessions replay to bit-identical events with no inference at all, which turned threshold tuning from a slow re-inference loop into an 87ms replay.
+- Every threshold, hold time and severity is adjustable in the app, so it can be stricter for a high-stakes certification and more forgiving for a practice quiz.
+- Detection runs on the candidate's own machine, on the CPU. No GPU is needed and no video is sent to a server.
+- Installers for Windows, macOS on Apple Silicon and Linux include everything it needs, so there's nothing else to install first.
 
-It replaced a MediaPipe-in-the-browser pipeline that managed 5 to 12 fps because ML inference and the React render loop were fighting over one thread. Current numbers: p50 27ms and p95 31ms detection latency held at 15 Hz, a 34 MB Windows installer, 119 tests passing. A custom 1.7 MB static ffmpeg build handles camera capture instead of the 128 MB of bundled binaries it replaced.
+**Stack** &nbsp;·&nbsp; Rust, Tauri, ONNX Runtime
 
-**Stack** &nbsp;·&nbsp; Rust, ONNX Runtime, Tauri, PyO3, WebAssembly, crossbeam, ArcSwap
+**Links** &nbsp;·&nbsp; [Request a demo](https://abdullah-masood.vercel.app/?demo=vigilo#contact) &nbsp;·&nbsp; [Overview](https://abdullah-masood.vercel.app/projects/vigilo) &nbsp;·&nbsp; [vigilo-stream (Python)](https://github.com/Abdullah-Masood-05/vigilo-stream) &nbsp;·&nbsp; [vigilo-wasm (browser)](https://github.com/Abdullah-Masood-05/vigilo-wasm)
 
-**Links** &nbsp;·&nbsp; [Vigilo (demo on request)](https://abdullah-masood.vercel.app/projects/vigilo) &nbsp;·&nbsp; [vigilo-stream (Python bindings)](https://github.com/Abdullah-Masood-05/vigilo-stream) &nbsp;·&nbsp; [vigilo-wasm (in-browser)](https://github.com/Abdullah-Masood-05/vigilo-wasm)
-
-The desktop app and its engine are private; demos are available on request. Two builds of the engine are public: Python bindings that hand NumPy a view into Rust-owned frame memory without copying, and a WebAssembly build for in-browser proctoring.
+Vigilo isn't publicly downloadable and its source is private. If you run online exams and want to see it working, [request a demo](https://abdullah-masood.vercel.app/?demo=vigilo#contact) and I'll set one up. For developers, the detection engine is also published as Python bindings and as a WebAssembly build that runs in a browser tab.
 
 </details>
 
@@ -271,9 +271,9 @@ Live install counts for all of these are on my [portfolio](https://abdullah-maso
 
 Designing and shipping end-to-end systems across AI, computer vision, and full-stack development.
 
-- Built a real-time computer-vision engine in Rust running five ONNX models on independent worker threads, with a deterministic fusion layer that replays recorded sessions to identical results.
+- Built Vigilo, a desktop app that proctors online exams over the webcam. It runs on the candidate's own CPU, sends no video to a server, and is available to clients with demos on request.
 - Published Python packages backed by Rust (PyO3 and maturin), including a memory-safe `pickle` replacement and zero-copy bindings that hand NumPy a view into Rust-allocated frames.
-- Compiled the proctoring engine to WebAssembly and published it to npm, so the same fusion rules run in a browser tab with inference on onnxruntime-web.
+- Published a WebAssembly build of the proctoring engine to npm, so proctoring can also run in a browser tab with camera frames kept on the machine.
 - Shipped developer tooling to five registries: PyPI, npm, the VS Code Marketplace, Open VSX, and Zed.
 - Maintain a fork of Nilesoft Shell, a context-menu manager that runs inside Windows Explorer. It gathers security and crash fixes from other forks and unmerged upstream pull requests, adds a per-user install that needs no admin rights, and ships a desktop app to configure it.
 - Wrote a document database engine in C++20 with custom BSON storage, on-disk B+Tree indexing, a query planner with explain plans, and a TLS-secured networked server.
@@ -291,7 +291,7 @@ Designing and shipping end-to-end systems across AI, computer vision, and full-s
 
 | Recognition | Details |
 |:--|:--|
-| **Real-time CV engine in Rust** | Five ONNX models at 15 Hz with p50 27ms detection latency, deterministic replay, and 119 tests |
+| **Exam proctoring product** | Vigilo, a desktop app for Windows, macOS and Linux that proctors online exams on the candidate's own CPU, with demos on request |
 | **Published to five registries** | Rust-backed packages and tooling on PyPI, npm, the VS Code Marketplace, Open VSX, and Zed |
 | **Database engine from scratch** | BisonDB with a custom BSON store and hand-written B+Tree indexes in C++20 |
 | **Accepted into the Windhawk catalog** | Two C++ Windows mods reviewed and published to the official mod catalog |
@@ -337,7 +337,7 @@ Abdullah Masood:
     - MLOps and model serving at scale
     - WebAssembly for on-device inference
   building:
-    - Vigilo        # real-time proctoring engine in Rust
+    - Vigilo        # exam proctoring app, demos on request
     - PyPilot       # Python environment doctor, four registries
     - BisonDB       # document database in C++20
   exploring:
