@@ -1,16 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Systems&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%2C%20Desktop%20%26%20Mobile%20%E2%80%A2%20Developer%20Tools&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Abdullah-Masood-05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F87171&center=true&vCenter=true&width=820&height=50&lines=Data+science+and+machine+learning%2C+end+to+end;Predictive+modeling%2C+statistics%2C+and+analysis;Computer+vision%2C+multimodal+AI%2C+vector+search;Full-stack+engineering+that+ships+models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F87171&center=true&vCenter=true&width=820&height=50&lines=Web%2C+desktop+and+mobile+apps%2C+end+to+end;Rust+engines+published+to+PyPI+and+npm;Developer+tools+for+VS+Code%2C+Zed+and+Windows;AI+features%2C+from+LLM+pipelines+to+on-device+models" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Data%20Scientist-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML%20Engineer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack%20Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Cross--Platform-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Developer%20Tools-B7410E?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 <br/>
 <br/>
@@ -30,13 +31,13 @@
 
 <h2 align="center">About</h2>
 
-I'm a data scientist and software engineer who turns messy data and hard problems into systems that actually run. Most of my depth is in data science and machine learning: exploratory analysis, statistics, predictive modeling, and computer vision, paired with the engineering it takes to move a model out of a notebook and into something people install.
+I'm a software engineer who builds whole products and ships them wherever they need to run: web platforms in Next.js and Django, native desktop apps in Rust, mobile apps in Flutter, and developer tools for Python, Node.js, code editors and Windows. When a product needs AI, I build that part too, from LLM pipelines to computer vision that runs on the user's own machine.
 
-I like understanding the layer below the one I'm working on, whether that's the math behind a model or the service that serves it. Lately that has meant writing inference engines in Rust and publishing them to PyPI, but the question I'm answering is the same one: what does it take to make this work outside a demo?
+I like understanding the layer below the one I'm working on, whether that's how a database lays documents out on disk or how an editor talks to a language server. Lately that has meant a lot of Rust: desktop apps, engines published to PyPI and npm, and a Python environment doctor that ships to four registries. The question I keep coming back to is the same one: what does it take to make this work outside a demo?
 
-Most of what I build ends up shipped rather than shelved. Packages on PyPI, extensions in editor marketplaces, installers people download.
+Most of what I build ends up shipped rather than shelved. Packages on PyPI and npm, extensions in editor marketplaces, installers people download.
 
-> **Open to** &nbsp;·&nbsp; Data Science roles &nbsp;·&nbsp; AI / ML Engineering roles &nbsp;·&nbsp; Software Engineering roles &nbsp;·&nbsp; Open-source collaboration
+> **Open to** &nbsp;·&nbsp; Software Engineering roles &nbsp;·&nbsp; AI / ML Engineering roles &nbsp;·&nbsp; Data Science roles &nbsp;·&nbsp; Open-source collaboration
 
 ---
 
@@ -46,9 +47,9 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI, exte
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,rust,cs,dart,ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,ts,py,cpp,c,dart,js,cs&theme=dark" />
 
-**Frontend**
+**Frontend &amp; Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark" />
 
@@ -56,7 +57,15 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI, exte
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,postgres,mongodb,mysql,sqlite,firebase,redis&theme=dark" />
 
-**AI / ML &amp; Computer Vision**
+**Native &amp; Cross-Platform**
+
+<img src="https://skillicons.dev/icons?i=tauri,wasm,bun&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/PyO3-3776AB?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/maturin-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/GPUI%20Kit-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
+
+**AI, ML &amp; Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark" />
 <br/>
@@ -70,14 +79,6 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI, exte
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-**Native &amp; Cross-Platform**
-
-<img src="https://skillicons.dev/icons?i=tauri,wasm,bun&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/PyO3-3776AB?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/maturin-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/GPUI%20Kit-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
-
 **Cloud, DevOps &amp; Tooling**
 
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash,vscode,postman&theme=dark" />
@@ -86,12 +87,22 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI, exte
 
 ---
 
-<h2 align="center">AI / ML Expertise</h2>
+<h2 align="center">What I Work On</h2>
 
 <div align="center">
 
-| Domain | Proficiency | Focus Areas |
-|:------|:-----------:|:------------|
+| Area | Tools | Where it shows up |
+|:--|:--|:--|
+| **Web &amp; backend** | Next.js, React, Django, DRF, FastAPI, Express, PostgreSQL, Redis | TaskForge, ElectroStore, Multimodal Product Intelligence |
+| **Desktop &amp; mobile** | Rust, Tauri, GPUI, Flutter | Vigilo, NoirPlayer, Prairie, TaskForge desktop and mobile |
+| **Systems** | C++20, C, CMake | BisonDB, ArenaBinAllocator |
+| **Developer tools** | Rust, TypeScript, C++, LSP, WebAssembly, PowerShell | PyPilot, nodefit, Nilesoft Shell Pro, Windhawk mods, pwsh-terminal-setup |
+| **AI &amp; computer vision** | PyTorch, ONNX Runtime, OpenCV, MediaPipe, YOLOv8, CLIP, Qdrant | Vigilo, Multimodal Product Intelligence, Driver Drowsiness Detection |
+| **Data science** | pandas, NumPy, scikit-learn, Plotly, Dash | SpaceX landing prediction, crop yield vs climate, fraud and readmission models |
+
+</div>
+
+------|:-----------:|:------------|
 | **Computer Vision** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | MediaPipe face mesh, YOLOv8 and YOLOX detection, ArcFace identity, OpenCV, real-time webcam inference |
 | **Deep Learning** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | PyTorch, LSTMs, CNNs, time-series forecasting |
 | **Multimodal AI / LLMs** | ![](https://img.shields.io/badge/Proficient-1F6FEB?style=flat-square) | CLIP embeddings, vision LLMs (Llama 4 Scout via Groq), RAG patterns |
@@ -122,22 +133,6 @@ It reports violations rather than raw readings. Each one has to hold for a set t
 **Links** &nbsp;·&nbsp; [Request a demo](https://abdullah-masood.vercel.app/?demo=vigilo#contact) &nbsp;·&nbsp; [Overview](https://abdullah-masood.vercel.app/projects/vigilo) &nbsp;·&nbsp; [vigilo-stream (Python)](https://github.com/Abdullah-Masood-05/vigilo-stream) &nbsp;·&nbsp; [vigilo-wasm (browser)](https://github.com/Abdullah-Masood-05/vigilo-wasm)
 
 Vigilo isn't publicly downloadable and its source is private. If you run online exams and want to see it working, [request a demo](https://abdullah-masood.vercel.app/?demo=vigilo#contact) and I'll set one up. For developers, the detection engine is also published as Python bindings and as a WebAssembly build that runs in a browser tab.
-
-</details>
-
-<details>
-<summary><b>&nbsp;Multimodal Product Intelligence &nbsp;·&nbsp; Vision LLM + Vector Search API</b></summary>
-<br/>
-
-Upload one product photo, get back a full market strategy. Five specialized agents reason over the image concurrently through asyncio: a vision analyst pulls product attributes, a market researcher runs competitive comparison, a customer psychologist simulates buyer personas, a pricing strategist works out positioning, and an ad strategist writes multi-channel campaigns.
-
-Vision runs on Llama 4 Scout 17B served on Groq's LPU, which is what makes five parallel agents feel responsive rather than sluggish. Product images are embedded with CLIP ViT-L/14 and indexed in Qdrant Cloud for similarity search.
-
-**Stack** &nbsp;·&nbsp; FastAPI, Groq (Llama 4 Scout), CLIP ViT-L/14, Qdrant, Next.js, Docker
-
-**Repos** &nbsp;·&nbsp; [API](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-api) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-frontend) &nbsp;·&nbsp; [Live demo](https://multimodal-ai-platform.netlify.app/)
-
-A practical look at how vision models, embeddings, and a vector database fit together into one service rather than three disconnected experiments.
 
 </details>
 
@@ -182,6 +177,22 @@ This is the project I point to when someone asks whether I understand what a dat
 </details>
 
 <details>
+<summary><b>&nbsp;TaskForge &nbsp;·&nbsp; Multi-Tenant SaaS Project Management Platform</b></summary>
+<br/>
+
+A multi-tenant SaaS platform built on Django and DRF, covering the parts a real product needs: JWT auth, role-based access, Stripe billing, async notifications through Celery, real-time task updates over Channels, and a Dockerized CI/CD pipeline with a test suite behind it.
+
+It ships as four coordinated apps: a Next.js frontend with drag-and-drop Kanban and optimistic updates, the Django API, a Tauri desktop shell wrapping the same frontend, and a Flutter app for Android and iOS, plus a VitePress documentation site.
+
+**Stack** &nbsp;·&nbsp; Django, DRF, PostgreSQL, Redis, Celery, Channels, Next.js, Tauri, Flutter
+
+**Repos** &nbsp;·&nbsp; [Backend](https://github.com/Abdullah-Masood-05/taskforge-backend) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/taskforge-frontend) &nbsp;·&nbsp; [Desktop](https://github.com/Abdullah-Masood-05/taskforge-desktop) &nbsp;·&nbsp; [Mobile](https://github.com/Abdullah-Masood-05/taskforge-mobile) &nbsp;·&nbsp; [Docs](https://abdullah-masood-05.github.io/taskforge-site/)
+
+The architecture is the point here. Tenancy, billing, async jobs, and real-time messaging are what separate a demo from something you could actually deploy.
+
+</details>
+
+<details>
 <summary><b>&nbsp;NoirPlayer &nbsp;·&nbsp; Music Player for Android and Desktop</b></summary>
 <br/>
 
@@ -200,18 +211,18 @@ The desktop build ships per-platform installers rather than one generic bundle: 
 </details>
 
 <details>
-<summary><b>&nbsp;TaskForge &nbsp;·&nbsp; Multi-Tenant SaaS Project Management Platform</b></summary>
+<summary><b>&nbsp;Multimodal Product Intelligence &nbsp;·&nbsp; Vision LLM + Vector Search API</b></summary>
 <br/>
 
-A multi-tenant SaaS platform built on Django and DRF, covering the parts a real product needs: JWT auth, role-based access, Stripe billing, async notifications through Celery, real-time task updates over Channels, and a Dockerized CI/CD pipeline with a test suite behind it.
+Upload one product photo, get back a full market strategy. Five specialized agents reason over the image concurrently through asyncio: a vision analyst pulls product attributes, a market researcher runs competitive comparison, a customer psychologist simulates buyer personas, a pricing strategist works out positioning, and an ad strategist writes multi-channel campaigns.
 
-It ships as four coordinated apps: a Next.js frontend with drag-and-drop Kanban and optimistic updates, the Django API, a Tauri desktop shell wrapping the same frontend, and a VitePress documentation site.
+Vision runs on Llama 4 Scout 17B served on Groq's LPU, which is what makes five parallel agents feel responsive rather than sluggish. Product images are embedded with CLIP ViT-L/14 and indexed in Qdrant Cloud for similarity search.
 
-**Stack** &nbsp;·&nbsp; Django, DRF, PostgreSQL, Redis, Celery, Channels, Next.js, Tauri
+**Stack** &nbsp;·&nbsp; FastAPI, Groq (Llama 4 Scout), CLIP ViT-L/14, Qdrant, Next.js, Docker
 
-**Repos** &nbsp;·&nbsp; [Backend](https://github.com/Abdullah-Masood-05/taskforge-backend) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/taskforge-frontend) &nbsp;·&nbsp; [Desktop](https://github.com/Abdullah-Masood-05/taskforge-desktop) &nbsp;·&nbsp; [Docs](https://abdullah-masood-05.github.io/taskforge-site/)
+**Repos** &nbsp;·&nbsp; [API](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-api) &nbsp;·&nbsp; [Frontend](https://github.com/Abdullah-Masood-05/multimodal-product-intelligence-frontend) &nbsp;·&nbsp; [Live demo](https://multimodal-ai-platform.netlify.app/)
 
-The architecture is the point here. Tenancy, billing, async jobs, and real-time messaging are what separate a demo from something you could actually deploy.
+A practical look at how vision models, embeddings, and a vector database fit together into one service rather than three disconnected experiments.
 
 </details>
 
@@ -233,7 +244,7 @@ Three models doing different jobs, joined into one real-time decision instead of
 
 <div align="center">
 <br/>
-<sub><b>More on GitHub</b> &nbsp;·&nbsp; ArenaBinAllocator (custom allocator in C) &nbsp;·&nbsp; Face Verification (Tauri 2 + FaceAPI.js) &nbsp;·&nbsp; Battery Degradation Forecasting (LSTM) &nbsp;·&nbsp; SpaceX Falcon 9 Landing Prediction &nbsp;·&nbsp; Pakistan Crop Yield vs Climate &nbsp;·&nbsp; Credit Card Fraud Detection &nbsp;·&nbsp; Hospital Readmission Prediction &nbsp;·&nbsp; Resume Builder (Next.js 16 + Tauri) &nbsp;·&nbsp; ElectroStore &nbsp;·&nbsp; Angry Bird 3D (Unity)</sub>
+<sub><b>More on GitHub</b> &nbsp;·&nbsp; ElectroStore &nbsp;·&nbsp; Resume Builder (Next.js 16 + Tauri) &nbsp;·&nbsp; ArenaBinAllocator (custom allocator in C) &nbsp;·&nbsp; Face Verification (Tauri 2 + FaceAPI.js) &nbsp;·&nbsp; Angry Bird 3D (Unity) &nbsp;·&nbsp; Battery Degradation Forecasting (LSTM) &nbsp;·&nbsp; SpaceX Falcon 9 Landing Prediction &nbsp;·&nbsp; Pakistan Crop Yield vs Climate &nbsp;·&nbsp; Credit Card Fraud Detection &nbsp;·&nbsp; Hospital Readmission Prediction</sub>
 </div>
 
 ---
@@ -266,22 +277,34 @@ Live install counts for all of these are on my [portfolio](https://abdullah-maso
 
 <h2 align="center">Experience</h2>
 
+#### Data Science Intern &nbsp;·&nbsp; VentureDive
+`Oct 2026 - Present` &nbsp;·&nbsp; Lahore, Hybrid
+- Prepare and validate multi-source data so the team's analytics and reporting rest on accurate inputs.
+- Run exploratory analysis to surface data-quality issues and emerging trends for senior team reporting.
+
+#### Freelance Software Engineer &nbsp;·&nbsp; Upwork
+`Aug 2026 - Present` &nbsp;·&nbsp; Remote
+- Deliver software projects for international clients across a range of technical requirements.
+- Own each project end to end: scoping with the client, building, testing, and delivering on time.
+- Keep clients updated on progress and work their feedback into each iteration.
+
 #### Open-Source &amp; Independent Engineering &nbsp;·&nbsp; Self-Directed
 `2023 - Present`
 
-Designing and shipping end-to-end systems across AI, computer vision, and full-stack development.
+Designing and shipping software across web, desktop, mobile, developer tooling, and AI.
 
 - Built Vigilo, a desktop app that proctors online exams over the webcam. It runs on the candidate's own CPU, sends no video to a server, and is available to clients with demos on request.
+- Shipped developer tooling to five registries: PyPI, npm, the VS Code Marketplace, Open VSX, and Zed.
+- Architected a multi-tenant SaaS platform with billing, async processing, real-time updates, and CI/CD.
+- Rebuilt an Android music player as a native Rust desktop app, with installers for Windows, macOS and Linux.
+- Wrote a document database engine in C++20 with custom BSON storage, on-disk B+Tree indexing, a query planner with explain plans, and a TLS-secured networked server.
+- Maintain a fork of Nilesoft Shell, a context-menu manager that runs inside Windows Explorer. It gathers security and crash fixes from other forks and unmerged upstream pull requests, adds a per-user install that needs no admin rights, and ships a desktop app to configure it.
 - Published Python packages backed by Rust (PyO3 and maturin), including a memory-safe `pickle` replacement and zero-copy bindings that hand NumPy a view into Rust-allocated frames.
 - Published a WebAssembly build of the proctoring engine to npm, so proctoring can also run in a browser tab with camera frames kept on the machine.
-- Shipped developer tooling to five registries: PyPI, npm, the VS Code Marketplace, Open VSX, and Zed.
-- Maintain a fork of Nilesoft Shell, a context-menu manager that runs inside Windows Explorer. It gathers security and crash fixes from other forks and unmerged upstream pull requests, adds a per-user install that needs no admin rights, and ships a desktop app to configure it.
-- Wrote a document database engine in C++20 with custom BSON storage, on-disk B+Tree indexing, a query planner with explain plans, and a TLS-secured networked server.
-- Developed computer-vision pipelines fusing MediaPipe, YOLOv8, and PyTorch for live inference.
-- Architected a multi-tenant SaaS platform with billing, async processing, real-time updates, and CI/CD.
 - Shipped a multimodal AI API combining vision LLMs, CLIP embeddings, and Qdrant vector search.
+- Developed computer-vision pipelines fusing MediaPipe, YOLOv8, and PyTorch for live inference.
 
-`Python` &nbsp; `Rust` &nbsp; `C++` &nbsp; `PyTorch` &nbsp; `Computer Vision` &nbsp; `ONNX` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `System Design`
+`Rust` &nbsp; `TypeScript` &nbsp; `Python` &nbsp; `C++` &nbsp; `Next.js` &nbsp; `Django` &nbsp; `Tauri` &nbsp; `Flutter` &nbsp; `PyTorch` &nbsp; `Docker`
 
 ---
 
@@ -349,9 +372,9 @@ Abdullah Masood:
     - Computer vision and ONNX inference
     - Shipping Rust to PyPI, npm and editor marketplaces
   open_to:
-    - Data Science roles
-    - AI / ML Engineering roles
     - Software Engineering roles
+    - AI / ML Engineering roles
+    - Data Science roles
     - Open-source collaboration
 ```
 
