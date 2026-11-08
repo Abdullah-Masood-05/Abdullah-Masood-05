@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%2C%20Desktop%20%26%20Mobile%20%E2%80%A2%20Developer%20Tools&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:EF4444,100:F87171&height=210&section=header&text=Syed%20Muhammad%20Abdullah%20Masood&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%2C%20Desktop%20and%20Mobile%20%E2%80%A2%20Developer%20Tools&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Abdullah-Masood-05">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F87171&center=true&vCenter=true&width=820&height=50&lines=Web%2C+desktop+and+mobile+apps%2C+end+to+end;Rust+engines+published+to+PyPI+and+npm;Developer+tools+for+VS+Code%2C+Zed+and+Windows;AI+features%2C+from+LLM+pipelines+to+on-device+models" alt="Typing SVG" />
