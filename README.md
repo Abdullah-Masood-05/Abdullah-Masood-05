@@ -102,7 +102,12 @@ Most of what I build ends up shipped rather than shelved. Packages on PyPI and n
 
 </div>
 
-------|:-----------:|:------------|
+---
+
+<h2 align="center">What I Do</h2>
+
+| Skill | Proficiency | Related Projects |
+|:------|:-----------:|:------------|
 | **Computer Vision** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | MediaPipe face mesh, YOLOv8 and YOLOX detection, ArcFace identity, OpenCV, real-time webcam inference |
 | **Deep Learning** | ![](https://img.shields.io/badge/Advanced-2EA043?style=flat-square) | PyTorch, LSTMs, CNNs, time-series forecasting |
 | **Multimodal AI / LLMs** | ![](https://img.shields.io/badge/Proficient-1F6FEB?style=flat-square) | CLIP embeddings, vision LLMs (Llama 4 Scout via Groq), RAG patterns |
