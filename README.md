@@ -21,10 +21,12 @@
 <a href="mailto:mabd051104@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Abdullah-Masood-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<!-- Hidden for now: Rankistan and profile views badges
 <br/>
 
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fabdullah-masood-05&style=flat-square)](https://rankistan.dev/#abdullah-masood-05) &nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=Abdullah-Masood-05&label=Profile%20views&color=ef4444&style=flat-square)
+-->
 
 </div>
 
