@@ -23,7 +23,8 @@
 
 <br/>
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fabdullah-masood-05&style=flat-square)](https://rankistan.dev/#abdullah-masood-05)
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fabdullah-masood-05&style=flat-square)](https://rankistan.dev/#abdullah-masood-05) &nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=Abdullah-Masood-05&label=Profile%20views&color=ef4444&style=flat-square)
 
 </div>
 
@@ -395,7 +396,7 @@ Abdullah Masood:
 
 <div align="center">
 
-<i>From B+Trees to UIs, I like building the whole stack.</i>
+<i>From AI models to full-stack apps to developer tools, I like building the whole thing.</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:EF4444,100:DC2626&height=120&section=footer" />
 
